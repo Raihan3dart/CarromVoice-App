@@ -2,7 +2,8 @@
 
 | Version | Status | Release Date | Download | Notes |
 | --- | --- | --- | --- | --- |
-| 1.0.21 | ![Latest](https://img.shields.io/badge/Latest-2ea44f?style=flat-square) | 2026-11-25 | [Download APK (GitHub)](https://github.com/Raihan3dart/CarromVoice-App/releases/latest/download/CarromVoice.apk) / [Web Link](https://carromvoice.web.app/CarromVoice.apk) | Signed Android APK release. |
+| 1.0.22 | ![Latest](https://img.shields.io/badge/Latest-2ea44f?style=flat-square) | 2026-11-25 | [Download APK (GitHub)](https://github.com/Raihan3dart/CarromVoice-App/releases/latest/download/CarromVoice.apk) / [Web Link](https://carromvoice.web.app/CarromVoice.apk) | Signed Android APK release. |
+| 1.0.21 | Archived (APK Cleaned) | 2026-11-25 | - | Signed Android APK release. |
 | 1.0.20 | Archived (APK Cleaned) | 2026-11-25 | - | Signed Android APK release. |
 | 1.0.19 | Archived (APK Cleaned) | 2026-11-25 | - | Signed Android APK release. |
 | 1.0.18 | Archived (APK Cleaned) | 2026-11-25 | - | Signed Android APK release. |
